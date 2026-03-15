@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Nguyen</h1>
-<h3 align="center">Software Developer | React • Next.js • Node.js • Golang</h3>
-
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nguyen;Software+Developer" />
+</p>
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
+<p align="center">
 
 ## 🚀 About Me
 
@@ -119,14 +119,6 @@ Features:
 - Rate limiting
 - Sqlc for type-safe SQL queries
 - Logger with Promtail, Loki, and Grafana
-
----
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khoinguyenazx&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khoinguyenazx&layout=compact)
 
 ---
 

@@ -1,7 +1,7 @@
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Nguyen;Software+Developer" />
-</p>
 <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" />
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Nguyen;Software+Developer" />
+</p>
 
 ## 🚀 About Me
 

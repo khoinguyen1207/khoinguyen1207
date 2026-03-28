@@ -17,46 +17,52 @@
 
 ### Frontend
 
-- React
-- Next.js
-- TypeScript
-- TailwindCSS
-- Shadcn UI
-- Redux
-- React Query
-- Zustand
-- GraphQL (Apollo Client)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge)
+![Shadcn UI](https://img.shields.io/badge/Shadcn_UI-111827?style=for-the-badge)
+![Apollo GraphQL](https://img.shields.io/badge/Apollo_Client-311C87?style=for-the-badge&logo=apollographql&logoColor=white)
 
 ### Backend
 
-- Node.js
-- Express.js
-- Golang
-- Gin
-- Sqlc, Gorm,
-- RabbitMQ
-- Redis (caching, pub/sub)
-- JWT for authentication
-- RESTful APIs
-- Server sent events (SSE)
-- OAuth 2.0
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge)
+![Sqlc](https://img.shields.io/badge/Sqlc-FF6F00?style=for-the-badge)
+![Gorm](https://img.shields.io/badge/Gorm-000000?style=for-the-badge)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![OAuth 2.0](https://img.shields.io/badge/OAuth2-3C3C3C?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+![SSE](https://img.shields.io/badge/SSE-FF9800?style=for-the-badge)
 
 ### Database
 
-- PostgreSQL
-- MongoDB
-- Redis
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### DevOps & Tools
 
-- Docker
-- Git, GitHub, GitLab
-- CI/CD with GitHub Actions
-- AI assistants (ChatGPT, GitHub Copilot)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot)
 
 ### Cloud
 
-- AWS (S3, SES)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white)
+![SES](https://img.shields.io/badge/Amazon_SES-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
 
 ---
 
